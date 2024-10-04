@@ -2,6 +2,6 @@
 
 # Trabalho de laboratório de desenvolvimento de sistemas 
 
-O trabalho consiste em um contador de passos.
+Trabalho feito em Java que é um contador de passos. Utilizado na materia de LDDM na PUC
 
 
